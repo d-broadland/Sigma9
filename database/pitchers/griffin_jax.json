@@ -1,0 +1,45 @@
+{
+  "name": "Griffin Jax",
+  "card": "92 OVR Summer Series",
+  "handedness": "RHP",
+  "arsenal": ["4-Seam Fastball", "Sweeper", "Circle Change", "Sinker", "12–6 Curve"],
+  "tunnel_anchor": "Circle Change",
+  "xBA_anchor": 0.135,
+  "tunnel_index": {
+    "4FB + CCH": 14,
+    "SINK + CCH": 11,
+    "SL + CCH": 7,
+    "SWP + CCH": 8
+  },
+  "vs_RHH": {
+    "seq_1A": [
+      "4-Seam Fastball (High in zone)",
+      "Sweeper (Low and away)",
+      "Circle Change (Below zone)",
+      "Sinker (Inside jam)"
+    ],
+    "seq_1B": [
+      "Sweeper (Backdoor strike)",
+      "4-Seam Fastball (Up and in)",
+      "Sweeper (Low and away - bury it)",
+      "Circle Change (Low middle tunnel kill)"
+    ]
+  },
+  "vs_LHH": {
+    "seq_1A": [
+      "4-Seam Fastball (Inside edge)",
+      "Sweeper (Backdoor strike)",
+      "Circle Change (Fade low and away)",
+      "Sinker (Arm-side run in)"
+    ],
+    "seq_1B": [
+      "Sweeper (Back foot - down and in)",
+      "4-Seam Fastball (Up and away)",
+      "Sweeper (Back foot - bury it)",
+      "12–6 Curve (Surprise drop)"
+    ]
+  },
+  "notes": "Jax’s changeup is the anchor for deception and punchouts. Use 4FB + CCH vertical tunneling for whiffs. Sweeper vs both sides is his primary putaway. Change is lethal vs LHH. Avoid predictable FB use late in count.",
+  "source": "Custom deep research from Baseball Savant, TwinsDaily, ShowZone, Brooks Baseball"
+}
+

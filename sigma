@@ -1,0 +1,3 @@
+#!/bin/bash
+~/Sigma9/scripts/venv/bin/python ~/Sigma9/scripts/promptloop.py
+

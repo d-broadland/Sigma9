@@ -1,0 +1,57 @@
+{
+  "name": "Kody Funderburk",
+  "throws": "LHP",
+  "vs_LHH": {
+    "1A_Sequence": [
+      "Start with front-door slider (low-in) to freeze or bait a take",
+      "Tunnel high-and-tight 4-seam fastball off that path",
+      "Finish with sweeping slider off the plate for chase"
+    ],
+    "1B_Sequence": [
+      "Backdoor sweeper for visual disruption",
+      "Circle change arm-side fading down",
+      "Elevated 4-seam as the show pitch (change eye level)"
+    ],
+    "Count-Based": {
+      "0-0": "Four-seam at the top rail. Set eye level and get a look at swing intent.",
+      "0-1": "Slider down and glove-side. Tunneling mirage. Chase bait.",
+      "1-1": "Four-seam in. Off the plate if needed. Comfort disruptor.",
+      "1-2": "Slider front-door or back-foot. Hammer it. Finish pitch.",
+      "2-2": "Changeup or backdoor slider. Eyes widen. Heart flutters.",
+      "3-2": "Four-seam painted away. Or elevate if hitter's been late."
+    },
+    "Kill_Pitch": "Sweeper down and away or off the plate",
+    "Setup_Notes": "Start in the zone early—LHH tend to spit on chase until 2 strikes. Keep glove-side tunnel alive."
+  },
+  "vs_RHH": {
+    "1A_Sequence": [
+      "Inside 4-seam to establish presence",
+      "Circle change fading arm-side below the zone",
+      "Back-foot slider to disrupt balance"
+    ],
+    "1B_Sequence": [
+      "First-pitch backdoor slider",
+      "Tunnel with 4-seam up and in",
+      "Circle change away (double drop tunnel)"
+    ],
+    "Count-Based": {
+      "0-0": "Changeup middle-away. Disguise it as a meatball, watch it vanish.",
+      "0-1": "Slider under the hands. Gut check.",
+      "1-1": "Four-seam in. Back them up.",
+      "1-2": "Slider off the plate. Glove-side whip.",
+      "2-2": "Changeup or slider. Read hitter posture. Whichever breaks their timing more.",
+      "3-2": "Changeup. Trust the fade. Let them overthink."
+    },
+    "Kill_Pitch": "Circle change fading arm-side",
+    "Setup_Notes": "Needs to show FB command early or RHH sit offspeed. Inside fastball opens up chase zones."
+  },
+  "notes": [
+    "Funderburk's slider has a nasty tilt, even if ratings underrate it.",
+    "Sequence effectiveness tied to conviction and FB setup.",
+    "Slider is low-80s death. It may be the best visual pitch in The Show from a lefty this year.",
+    "Changeup works better against righties than expected. Reverse split weapon.",
+    "Fastball is a setup tool, but can sneak in if used sparingly.",
+    "Optimal after a high-spin righty. He’s liquid misdirection."
+  ]
+}
+

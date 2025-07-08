@@ -1,0 +1,56 @@
+.
+├── api
+│   ├── __pycache__
+│   │   └── index.cpython-313.pyc
+│   ├── captains.py
+│   └── index.py
+├── database
+│   ├── lineup
+│   │   ├── __pycache__
+│   │   └── lineup_loader.py
+│   ├── pitchers
+│   │   ├── griffin_jax.json
+│   │   └── kody_funderburk.json
+│   └── scouting reports
+│       ├── bullpen reports
+│       ├── lineup reports
+│       └── starting pitcher reports
+├── project_structure.txt
+├── requirements.txt
+├── scripts
+│   ├── pitching.py
+│   └── promptloop.py
+├── scrolls
+│   ├── promptlog_2025-06-19_01-05-35.txt
+│   ├── promptlog_2025-06-19_02-53-49.txt
+│   ├── promptlog_2025-06-19_04-46-30.txt
+│   ├── promptlog_2025-06-19_04-49-48.txt
+│   ├── promptlog_2025-06-19_05-03-11.txt
+│   ├── promptlog_2025-06-19_05-27-42.txt
+│   ├── promptlog_2025-06-19_06-33-08.txt
+│   └── promptlog_2025-06-19_06-43-44.txt
+├── sigma
+└── venv
+    ├── bin
+    │   ├── Activate.ps1
+    │   ├── activate
+    │   ├── activate.csh
+    │   ├── activate.fish
+    │   ├── distro
+    │   ├── httpx
+    │   ├── normalizer
+    │   ├── openai
+    │   ├── pip
+    │   ├── pip3
+    │   ├── pip3.13
+    │   ├── python -> python3.13
+    │   ├── python3 -> python3.13
+    │   ├── python3.13 -> /opt/homebrew/opt/python@3.13/bin/python3.13
+    │   └── tqdm
+    ├── include
+    │   └── python3.13
+    ├── lib
+    │   └── python3.13
+    └── pyvenv.cfg
+
+19 directories, 35 files
